@@ -58,3 +58,10 @@ button {
     border: none;
     border-radius: 15px;
 }
+
+button:hover {
+    box-shadow:
+        0 0 2px 2px rgba(0, 0, 0, 0.45),
+        0 0 2px 2px rgba(0, 0, 0, 0.45),
+        0 0 2px 2px rgba(0, 0, 0, 0.45);
+}
