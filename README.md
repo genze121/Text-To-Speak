@@ -1,4 +1,5 @@
-Text-to-Speech Converter App.
+Text To Speech Converter App using HTML5, CSS3, and JavaScript.
+------
 
 Instructions:- Click on the read button to listen to the text written in the text area.
 __________________________________________________________________________________________________________
