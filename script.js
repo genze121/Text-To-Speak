@@ -1,7 +1,7 @@
 const textInput = document.querySelector(".text-area");
-const sppechReadButton = document.querySelector(".submit-button");
+const speechReadButton = document.querySelector(".submit-button");
 
-sppechReadButton.addEventListener("click", () => {
+speechReadButton.addEventListener("click", () => {
   const inputData = textInput.value;
 
   const utterence = new SpeechSynthesisUtterance(inputData);
